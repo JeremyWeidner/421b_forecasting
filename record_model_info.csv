@@ -1,0 +1,1045 @@
+name,min_AIC,MSE
+"Abilene, TX_Overall",233.1579027,23813.37714
+"Abilene, TX_Studio",215.2066288,12860.96058
+"Abilene, TX1br",215.6886415,19653.27872
+"Abilene, TX2br",229.80308,21194.35415
+"Abilene, TX3br",232.892893,34544.78087
+"Abilene, TX4br",246.9510452,59159.47877
+"Akron, OH_Overall",189.0875441,13978.41749
+"Akron, OH_Studio",171.3796606,9193.741651
+"Akron, OH1br",168.7124194,8771.230087
+"Akron, OH2br",184.9923808,15463.59742
+"Akron, OH3br",196.7861439,18900.66643
+"Akron, OH4br",201.1052283,22832.28123
+"Albany-Schenectady-Troy, NY_Overall",222.9521611,30792.20042
+"Albany-Schenectady-Troy, NY_Studio",208.5067232,18220.44582
+"Albany-Schenectady-Troy, NY1br",214.4542699,22870.27033
+"Albany-Schenectady-Troy, NY2br",224.7315216,35226.6323
+"Albany-Schenectady-Troy, NY3br",226.7252684,37493.11537
+"Albany-Schenectady-Troy, NY4br",230.4643204,41850.78411
+"Albuquerque, NM_Overall",173.6718036,20388.12881
+"Albuquerque, NM_Studio",149.059211,8817.081363
+"Albuquerque, NM1br",164.0459261,12925.573
+"Albuquerque, NM2br",173.3773292,22480.10677
+"Albuquerque, NM3br",190.1540762,35740.95562
+"Albuquerque, NM4br",198.6979051,50550.46921
+"Allentown-Bethlehem-Easton, PA-NJ_Overall",202.6086307,31052.59409
+"Allentown-Bethlehem-Easton, PA-NJ_Studio",190.2847628,15041.76528
+"Allentown-Bethlehem-Easton, PA-NJ1br",195.2549642,19485.30806
+"Allentown-Bethlehem-Easton, PA-NJ2br",209.1496226,33402.99624
+"Allentown-Bethlehem-Easton, PA-NJ3br",216.2293379,47885.78851
+"Allentown-Bethlehem-Easton, PA-NJ4br",221.3649452,49794.77871
+"Ames, IA_Overall",217.7041523,22800.48554
+"Ames, IA_Studio",8,1.23E+67
+"Ames, IA1br",8,3.12E+52
+"Ames, IA2br",8,8.37E+53
+"Ames, IA3br",8,4.28E+51
+"Ames, IA4br",8,1.48E+64
+"Anchorage, AK_Overall",199.9320227,46265.10703
+"Anchorage, AK_Studio",186.7527303,33843.66152
+"Anchorage, AK1br",192.0403253,40609.98498
+"Anchorage, AK2br",209.3869598,70159.23539
+"Anchorage, AK3br",217.0613136,85467.25553
+"Anchorage, AK4br",227.0542627,129248.7611
+"Ann Arbor, MI_Overall",214.5148761,38540.084
+"Ann Arbor, MI_Studio",205.9251979,27719.69745
+"Ann Arbor, MI1br",203.459898,29426.69041
+"Ann Arbor, MI2br",214.3216302,44612.78636
+"Ann Arbor, MI3br",226.6419461,54230.78761
+"Ann Arbor, MI4br",235.2388499,74120.30273
+"Asheville, NC_Overall",200.07907,18385.04669
+"Asheville, NC_Studio",197.9927949,17729.67314
+"Asheville, NC1br",189.1511693,13455.58845
+"Asheville, NC2br",197.291143,17075.04014
+"Asheville, NC3br",210.3918828,26706.70269
+"Asheville, NC4br",219.6796532,39951.65715
+"Athens-Clarke County, GA_Overall",198.317234,26133.75076
+"Athens-Clarke County, GA_Studio",188.2257831,9536.662541
+"Athens-Clarke County, GA1br",192.0001799,11435.93326
+"Athens-Clarke County, GA2br",195.3141768,23770.7051
+"Athens-Clarke County, GA3br",210.4310347,41574.09779
+"Athens-Clarke County, GA4br",219.2431097,52289.89501
+"Atlanta-Sandy Springs-Alpharetta, GA_Overall",180.5064616,35711.69182
+"Atlanta-Sandy Springs-Alpharetta, GA_Studio",166.7137452,26423.40034
+"Atlanta-Sandy Springs-Alpharetta, GA1br",174.5525348,27450.23677
+"Atlanta-Sandy Springs-Alpharetta, GA2br",179.5481575,32605.72261
+"Atlanta-Sandy Springs-Alpharetta, GA3br",187.7470904,42604.13219
+"Atlanta-Sandy Springs-Alpharetta, GA4br",193.9523524,68353.46531
+"Augusta-Richmond County, GA-SC_Overall",196.279937,18022.77272
+"Augusta-Richmond County, GA-SC_Studio",174.4407593,8400.137636
+"Augusta-Richmond County, GA-SC1br",179.7737115,19438.32989
+"Augusta-Richmond County, GA-SC2br",189.4943262,27501.69271
+"Augusta-Richmond County, GA-SC3br",200.9112747,42014.35842
+"Augusta-Richmond County, GA-SC4br",216.1632363,64809.4844
+"Austin-Round Rock-Georgetown, TX_Overall",176.969626,50139.57539
+"Austin-Round Rock-Georgetown, TX_Studio",169.4142221,29153.17209
+"Austin-Round Rock-Georgetown, TX1br",173.9272588,38278.4629
+"Austin-Round Rock-Georgetown, TX2br",177.4456122,54289.21008
+"Austin-Round Rock-Georgetown, TX3br",190.2656331,78961.16171
+"Austin-Round Rock-Georgetown, TX4br",198.6875654,108321.9614
+"Bakersfield, CA_Overall",210.4492543,24355.95581
+"Bakersfield, CA_Studio",190.9782597,12352.13455
+"Bakersfield, CA1br",191.9226417,12082.26817
+"Bakersfield, CA2br",206.1889518,20303.28461
+"Bakersfield, CA3br",221.2006619,36386.89548
+"Bakersfield, CA4br",234.6352339,58578.27252
+"Baltimore-Columbia-Towson, MD_Overall",183.8711913,50537.69041
+"Baltimore-Columbia-Towson, MD_Studio",165.4795344,24689.0363
+"Baltimore-Columbia-Towson, MD1br",166.7892123,32572.5378
+"Baltimore-Columbia-Towson, MD2br",182.6413554,52435.21503
+"Baltimore-Columbia-Towson, MD3br",202.3696343,74091.62834
+"Baltimore-Columbia-Towson, MD4br",200.7765182,103709.2528
+"Baton Rouge, LA_Overall",185.2457256,25805.20824
+"Baton Rouge, LA_Studio",165.4733756,16724.34036
+"Baton Rouge, LA1br",174.1209252,18069.0469
+"Baton Rouge, LA2br",173.0777256,23249.13877
+"Baton Rouge, LA3br",194.5684667,34461.3093
+"Baton Rouge, LA4br",204.5769461,56493.1662
+"Bellingham, WA_Overall",218.2768665,27684.84944
+"Bellingham, WA_Studio",203.480196,15921.70109
+"Bellingham, WA1br",205.5995747,16815.22094
+"Bellingham, WA2br",208.1718929,28246.43629
+"Bellingham, WA3br",236.9137742,52706.00309
+"Bellingham, WA4br",244.2213921,69919.05209
+"Bend, OR_Overall",242.2464479,45750.99966
+"Bend, OR_Studio",220.6178237,21984.63604
+"Bend, OR1br",225.9935644,25223.2801
+"Bend, OR2br",236.5165435,37175.41636
+"Bend, OR3br",252.8451464,66539.18793
+"Bend, OR4br",265.301912,104011.2046
+"Birmingham-Hoover, AL_Overall",180.8030984,23918.33974
+"Birmingham-Hoover, AL_Studio",173.8519366,17057.2856
+"Birmingham-Hoover, AL1br",172.1754618,16387.09402
+"Birmingham-Hoover, AL2br",179.2047064,22177.33236
+"Birmingham-Hoover, AL3br",189.6181755,31349.19541
+"Birmingham-Hoover, AL4br",187.2320106,35979.41657
+"Bismarck, ND_Overall",211.7478208,20179.68662
+"Bismarck, ND_Studio",194.793856,14149.89215
+"Bismarck, ND1br",203.4458753,14705.41657
+"Bismarck, ND2br",213.2553991,21040.61141
+"Bismarck, ND3br",229.870109,38497.31963
+"Bismarck, ND4br",10,9.94E+60
+"Boise City, ID_Overall",217.4595054,18442.59628
+"Boise City, ID_Studio",200.8371717,10052.87838
+"Boise City, ID1br",87.33686054,3.82E+27
+"Boise City, ID2br",214.8713419,15940.96453
+"Boise City, ID3br",227.6047798,25863.55362
+"Boise City, ID4br",236.12374,35464.6365
+"Boston-Cambridge-Newton, MA-NH_Overall",231.9765534,82417.07559
+"Boston-Cambridge-Newton, MA-NH_Studio",216.4437387,45720.78932
+"Boston-Cambridge-Newton, MA-NH1br",212.7329849,55490.38142
+"Boston-Cambridge-Newton, MA-NH2br",228.0375318,90328.18329
+"Boston-Cambridge-Newton, MA-NH3br",233.9029006,111162.8168
+"Boston-Cambridge-Newton, MA-NH4br",246.380977,137860.9974
+"Boulder, CO_Overall",239.6129107,62379.4273
+"Boulder, CO_Studio",224.8196874,35842.58205
+"Boulder, CO1br",228.4211577,42577.09305
+"Boulder, CO2br",239.9293953,62992.0715
+"Boulder, CO3br",246.0912942,100698.7501
+"Boulder, CO4br",258.1821002,153812.4907
+"Bremerton-Silverdale-Port Orchard, WA_Overall",241.1169824,52530.05632
+"Bremerton-Silverdale-Port Orchard, WA_Studio",215.283721,24270.39811
+"Bremerton-Silverdale-Port Orchard, WA1br",10,1.30E+66
+"Bremerton-Silverdale-Port Orchard, WA2br",239.2690515,47838.30622
+"Bremerton-Silverdale-Port Orchard, WA3br",251.5354201,76606.4625
+"Bremerton-Silverdale-Port Orchard, WA4br",10,8.98E+51
+"Bridgeport-Stamford-Norwalk, CT_Overall",221.3257644,58952.44569
+"Bridgeport-Stamford-Norwalk, CT_Studio",197.5108209,24477.45093
+"Bridgeport-Stamford-Norwalk, CT1br",213.1276,41587.124
+"Bridgeport-Stamford-Norwalk, CT2br",222.4424687,63677.94808
+"Bridgeport-Stamford-Norwalk, CT3br",233.2501332,89001.60919
+"Bridgeport-Stamford-Norwalk, CT4br",242.1989318,123845.7867
+"Cape Coral-Fort Myers, FL_Overall",214.6019783,34929.9034
+"Cape Coral-Fort Myers, FL_Studio",211.8740688,27044.30974
+"Cape Coral-Fort Myers, FL1br",204.9255446,20906.43184
+"Cape Coral-Fort Myers, FL2br",216.6385916,31435.54457
+"Cape Coral-Fort Myers, FL3br",220.3799553,41861.46951
+"Cape Coral-Fort Myers, FL4br",228.0700628,56809.64643
+"Cedar Rapids, IA_Overall",212.1047411,13954.77903
+"Cedar Rapids, IA_Studio",186.1324084,5479.942141
+"Cedar Rapids, IA1br",197.4117186,8041.985206
+"Cedar Rapids, IA2br",215.5952331,15422.54922
+"Cedar Rapids, IA3br",231.2060669,26603.36128
+"Cedar Rapids, IA4br",230.6887298,26700.30227
+"Charleston-North Charleston, SC_Overall",198.5957315,47159.37829
+"Charleston-North Charleston, SC_Studio",193.1992683,38987.74082
+"Charleston-North Charleston, SC1br",191.2717542,35320.02322
+"Charleston-North Charleston, SC2br",192.2724937,43019.31313
+"Charleston-North Charleston, SC3br",204.7998293,57553.18963
+"Charleston-North Charleston, SC4br",211.1146718,100173.6132
+"Charlotte-Concord-Gastonia, NC-SC_Overall",180.4305801,33383.6978
+"Charlotte-Concord-Gastonia, NC-SC_Studio",163.0322246,24338.05383
+"Charlotte-Concord-Gastonia, NC-SC1br",185.8594796,23330.31874
+"Charlotte-Concord-Gastonia, NC-SC2br",174.3515959,27471.05012
+"Charlotte-Concord-Gastonia, NC-SC3br",181.3511493,38880.85119
+"Charlotte-Concord-Gastonia, NC-SC4br",200.0086534,71032.10997
+"Charlottesville, VA_Overall",224.8552095,39812.66522
+"Charlottesville, VA_Studio",211.8630227,25284.14878
+"Charlottesville, VA1br",214.808295,27119.01546
+"Charlottesville, VA2br",227.9569365,39469.00067
+"Charlottesville, VA3br",229.165743,47645.22675
+"Charlottesville, VA4br",248.713667,79937.73514
+"Chattanooga, TN-GA_Overall",193.3879951,18465.47531
+"Chattanooga, TN-GA_Studio",189.8809132,15112.37668
+"Chattanooga, TN-GA1br",180.259221,11555.1112
+"Chattanooga, TN-GA2br",192.8938924,17337.33866
+"Chattanooga, TN-GA3br",201.8610903,26029.82795
+"Chattanooga, TN-GA4br",215.3224185,37623.58663
+"Chicago-Naperville-Elgin, IL-IN-WI_Overall",196.6736732,38000.34602
+"Chicago-Naperville-Elgin, IL-IN-WI_Studio",182.8407033,24716.55533
+"Chicago-Naperville-Elgin, IL-IN-WI1br",189.38895,27936.87775
+"Chicago-Naperville-Elgin, IL-IN-WI2br",195.5855425,38945.74414
+"Chicago-Naperville-Elgin, IL-IN-WI3br",205.3698003,53612.5306
+"Chicago-Naperville-Elgin, IL-IN-WI4br",214.4285972,77773.29232
+"Chico, CA_Overall",216.8448895,29395.241
+"Chico, CA_Studio",197.8615584,12329.73232
+"Chico, CA1br",200.072806,15131.87642
+"Chico, CA2br",216.7342078,28145.45943
+"Chico, CA3br",235.5747458,45742.86139
+"Chico, CA4br",246.4690422,68095.94277
+"Cincinnati, OH-KY-IN_Overall",150.540876,15830.01853
+"Cincinnati, OH-KY-IN_Studio",131.7722077,9158.652328
+"Cincinnati, OH-KY-IN1br",128.9021911,11128.27356
+"Cincinnati, OH-KY-IN2br",158.4371854,17837.77962
+"Cincinnati, OH-KY-IN3br",168.6810821,26602.86366
+"Cincinnati, OH-KY-IN4br",176.2475222,36556.80577
+"Clarksville, TN-KY_Overall",207.5188501,22522.14537
+"Clarksville, TN-KY_Studio",182.5564545,9175.537023
+"Clarksville, TN-KY1br",184.4174402,10506.08312
+"Clarksville, TN-KY2br",198.3406817,18370.33556
+"Clarksville, TN-KY3br",216.2398198,32047.09393
+"Clarksville, TN-KY4br",230.8267702,53271.90436
+"Cleveland-Elyria, OH_Overall",188.8535366,15442.9088
+"Cleveland-Elyria, OH_Studio",172.3098519,8455.516973
+"Cleveland-Elyria, OH1br",178.9404754,10163.87653
+"Cleveland-Elyria, OH2br",192.269004,16169.62468
+"Cleveland-Elyria, OH3br",201.6414541,23380.81139
+"Cleveland-Elyria, OH4br",205.0795407,26243.70258
+"College Station-Bryan, TX_Overall",224.956055,20171.37924
+"College Station-Bryan, TX_Studio",212.9731516,12703.05472
+"College Station-Bryan, TX1br",214.9257043,14253.54865
+"College Station-Bryan, TX2br",214.8167345,18834.42237
+"College Station-Bryan, TX3br",232.0388856,35131.88611
+"College Station-Bryan, TX4br",245.1992223,58172.79786
+"Colorado Springs, CO_Overall",197.4173505,34420.98651
+"Colorado Springs, CO_Studio",162.3743407,14296.59713
+"Colorado Springs, CO1br",181.8371485,18597.38927
+"Colorado Springs, CO2br",194.4054341,29593.94879
+"Colorado Springs, CO3br",199.4409995,53937.23647
+"Colorado Springs, CO4br",219.2654371,78215.77128
+"Columbia, MO_Overall",209.96263,18679.55056
+"Columbia, MO_Studio",191.6787478,8985.134476
+"Columbia, MO1br",204.5659587,11125.66997
+"Columbia, MO2br",216.0259647,16217.87932
+"Columbia, MO3br",226.7350322,25265.81538
+"Columbia, MO4br",240.4681705,39029.11798
+"Columbia, SC_Overall",212.1070881,35268.86569
+"Columbia, SC_Studio",196.4208031,23679.14562
+"Columbia, SC1br",203.6198036,25285.14464
+"Columbia, SC2br",211.0812751,31853.08641
+"Columbia, SC3br",218.4275816,45630.64998
+"Columbia, SC4br",231.7043832,70491.53071
+"Columbus, GA-AL_Overall",182.0211179,24885.19377
+"Columbus, GA-AL_Studio",165.0491487,14230.10393
+"Columbus, GA-AL1br",168.5409299,15575.817
+"Columbus, GA-AL2br",178.6330137,21026.46835
+"Columbus, GA-AL3br",189.9330027,34153.80595
+"Columbus, GA-AL4br",207.8891484,63927.84138
+"Columbus, OH_Overall",187.53757,23598.40748
+"Columbus, OH_Studio",171.9053011,12503.3742
+"Columbus, OH1br",174.8651598,15486.99367
+"Columbus, OH2br",188.5114561,24272.60473
+"Columbus, OH3br",197.8214645,31512.62142
+"Columbus, OH4br",191.4062494,41262.10175
+"Corpus Christi, TX_Overall",197.7597279,30999.87045
+"Corpus Christi, TX_Studio",183.5845686,19456.01004
+"Corpus Christi, TX1br",188.3075846,21048.82248
+"Corpus Christi, TX2br",199.3636999,32058.78124
+"Corpus Christi, TX3br",209.6190399,48748.38506
+"Corpus Christi, TX4br",218.7951163,64546.50567
+"Corvallis, OR_Overall",206.1149142,33157.28373
+"Corvallis, OR_Studio",202.3234873,17131.16246
+"Corvallis, OR1br",195.1918936,21748.85925
+"Corvallis, OR2br",215.3430954,28241.44784
+"Corvallis, OR3br",222.9172969,61353.67312
+"Corvallis, OR4br",237.6856493,61206.84998
+"Crestview-Fort Walton Beach-Destin, FL_Overall",257.7323017,40696.85995
+"Crestview-Fort Walton Beach-Destin, FL_Studio",240.9128448,24265.74174
+"Crestview-Fort Walton Beach-Destin, FL1br",244.5827404,25271.32867
+"Crestview-Fort Walton Beach-Destin, FL2br",250.1615506,36570.94044
+"Crestview-Fort Walton Beach-Destin, FL3br",247.8680864,54015.94284
+"Crestview-Fort Walton Beach-Destin, FL4br",263.7947345,95202.41732
+"Dallas-Fort Worth-Arlington, TX_Overall",166.0445897,38711.15415
+"Dallas-Fort Worth-Arlington, TX_Studio",151.8424412,25176.44454
+"Dallas-Fort Worth-Arlington, TX1br",152.8869392,28065.02257
+"Dallas-Fort Worth-Arlington, TX2br",156.0945585,39062.48271
+"Dallas-Fort Worth-Arlington, TX3br",176.2146569,54577.12689
+"Dallas-Fort Worth-Arlington, TX4br",193.4113233,95654.10666
+"Daphne-Fairhope-Foley, AL_Overall",228.9953034,39406.19127
+"Daphne-Fairhope-Foley, AL_Studio",209.5660493,18740.48905
+"Daphne-Fairhope-Foley, AL1br",211.5618382,20975.74633
+"Daphne-Fairhope-Foley, AL2br",224.7353106,34090.52543
+"Daphne-Fairhope-Foley, AL3br",237.4449224,50014.01532
+"Daphne-Fairhope-Foley, AL4br",251.4329474,84225.06239
+"Davenport-Moline-Rock Island, IA-IL_Overall",172.3447267,15831.20569
+"Davenport-Moline-Rock Island, IA-IL_Studio",150.1739231,7797.458007
+"Davenport-Moline-Rock Island, IA-IL1br",162.6612754,10453.95288
+"Davenport-Moline-Rock Island, IA-IL2br",176.487648,17060.12851
+"Davenport-Moline-Rock Island, IA-IL3br",187.6759186,25342.80621
+"Davenport-Moline-Rock Island, IA-IL4br",194.5358276,34644.10495
+"Deltona-Daytona Beach-Ormond Beach, FL_Overall",191.2867439,26124.82958
+"Deltona-Daytona Beach-Ormond Beach, FL_Studio",181.2914938,14238.90635
+"Deltona-Daytona Beach-Ormond Beach, FL1br",186.0368654,16007.505
+"Deltona-Daytona Beach-Ormond Beach, FL2br",197.6987401,23566.54866
+"Deltona-Daytona Beach-Ormond Beach, FL3br",201.198529,36137.39504
+"Deltona-Daytona Beach-Ormond Beach, FL4br",205.3410507,44731.07516
+"Denver-Aurora-Lakewood, CO_Overall",192.0088194,55858.63375
+"Denver-Aurora-Lakewood, CO_Studio",184.7891236,34288.22672
+"Denver-Aurora-Lakewood, CO1br",191.4443293,41046.26936
+"Denver-Aurora-Lakewood, CO2br",187.940934,63569.77574
+"Denver-Aurora-Lakewood, CO3br",204.2259248,86847.47015
+"Denver-Aurora-Lakewood, CO4br",215.512505,117614.4911
+"Des Moines-West Des Moines, IA_Overall",168.231031,25857.43949
+"Des Moines-West Des Moines, IA_Studio",150.6909795,14346.51538
+"Des Moines-West Des Moines, IA1br",8,1.20E+49
+"Des Moines-West Des Moines, IA2br",161.7746496,26330.84901
+"Des Moines-West Des Moines, IA3br",8,3.08E+49
+"Des Moines-West Des Moines, IA4br",188.5415855,51789.00918
+"Detroit-Warren-Dearborn, MI_Overall",160.9170122,22569.31689
+"Detroit-Warren-Dearborn, MI_Studio",157.0334534,11719.27634
+"Detroit-Warren-Dearborn, MI1br",162.9505681,13448.75808
+"Detroit-Warren-Dearborn, MI2br",169.5914952,23252.17566
+"Detroit-Warren-Dearborn, MI3br",183.4417387,31821.91988
+"Detroit-Warren-Dearborn, MI4br",190.074696,37428.56596
+"Durham-Chapel Hill, NC_Overall",187.7897059,34189.73282
+"Durham-Chapel Hill, NC_Studio",180.7266299,25762.62125
+"Durham-Chapel Hill, NC1br",175.1314924,25657.55951
+"Durham-Chapel Hill, NC2br",187.7897059,34189.73282
+"Durham-Chapel Hill, NC3br",188.5543512,46621.69483
+"Durham-Chapel Hill, NC4br",205.1252216,66311.04321
+"El Paso, TX_Overall",171.383242,37170.4435
+"El Paso, TX_Studio",146.8727394,15690.75394
+"El Paso, TX1br",161.8868946,23116.1007
+"El Paso, TX2br",169.5091242,17899.32267
+"El Paso, TX3br",184.2710213,56630.85324
+"El Paso, TX4br",194.7946068,88314.25319
+"Eugene-Springfield, OR_Overall",185.0650541,21961.89062
+"Eugene-Springfield, OR_Studio",163.5690043,10596.27429
+"Eugene-Springfield, OR1br",168.5926108,11900.71059
+"Eugene-Springfield, OR2br",181.8770284,21126.84327
+"Eugene-Springfield, OR3br",194.510883,41211.51536
+"Eugene-Springfield, OR4br",206.2412114,46047.44381
+"Evansville, IN-KY_Overall",195.9078475,16261.55336
+"Evansville, IN-KY_Studio",185.107293,9953.923437
+"Evansville, IN-KY1br",186.1708988,10802.11889
+"Evansville, IN-KY2br",194.5312115,17676.82615
+"Evansville, IN-KY3br",211.7734598,25248.99988
+"Evansville, IN-KY4br",219.6164404,33855.31177
+"Fargo, ND-MN_Overall",170.8743892,20612.26736
+"Fargo, ND-MN_Studio",149.4244725,10311.72273
+"Fargo, ND-MN1br",160.2167074,14685.7266
+"Fargo, ND-MN2br",163.3115513,19041.69155
+"Fargo, ND-MN3br",190.3616735,43553.04746
+"Fargo, ND-MN4br",201.1286345,83722.33694
+"Fayetteville, NC_Overall",192.4081754,36777.00135
+"Fayetteville, NC_Studio",178.6178261,11818.3542
+"Fayetteville, NC1br",180.5017128,11796.00744
+"Fayetteville, NC2br",188.8061905,16055.25644
+"Fayetteville, NC3br",203.5159198,26546.04095
+"Fayetteville, NC4br",215.363758,43459.65284
+"Fayetteville-Springdale-Rogers, AR_Overall",190.79667,17454.47304
+"Fayetteville-Springdale-Rogers, AR_Studio",174.1493232,9100.894357
+"Fayetteville-Springdale-Rogers, AR1br",174.3238593,10048.2537
+"Fayetteville-Springdale-Rogers, AR2br",185.6185142,15339.05791
+"Fayetteville-Springdale-Rogers, AR3br",202.6830597,27368.56171
+"Fayetteville-Springdale-Rogers, AR4br",215.0246439,42396.96584
+"Fort Collins, CO_Overall",223.2284284,40942.77834
+"Fort Collins, CO_Studio",196.3475881,23112.04553
+"Fort Collins, CO1br",207.2220077,23301.74481
+"Fort Collins, CO2br",219.7182991,35399.60771
+"Fort Collins, CO3br",235.6864613,65653.04153
+"Fort Collins, CO4br",241.8070063,82686.13031
+"Fort Wayne, IN_Overall",213.6470316,12802.1038
+"Fort Wayne, IN_Studio",197.6013838,7182.267146
+"Fort Wayne, IN1br",195.0720185,8808.2611
+"Fort Wayne, IN2br",213.9773306,13106.0315
+"Fort Wayne, IN3br",223.1860069,18183.97608
+"Fort Wayne, IN4br",227.0609154,22189.26712
+"Fresno, CA_Overall",223.2347535,23765.9546
+"Fresno, CA_Studio",211.1375482,14767.31372
+"Fresno, CA1br",206.6438557,12781.46677
+"Fresno, CA2br",219.8132,21622.32455
+"Fresno, CA3br",234.710245,34947.62407
+"Fresno, CA4br",245.2517817,50845.66235
+"Gainesville, FL_Overall",237.7514088,42264.06808
+"Gainesville, FL_Studio",212.2048962,12887.53332
+"Gainesville, FL1br",228.4904205,25097.97303
+"Gainesville, FL2br",238.8002369,24447.13171
+"Gainesville, FL3br",250.1592893,36570.67496
+"Gainesville, FL4br",249.8730527,64696.94678
+"Gainesville, GA_Overall",223.4719485,28471.16761
+"Gainesville, GA_Studio",217.2702677,24157.45634
+"Gainesville, GA1br",211.5109796,19823.24226
+"Gainesville, GA2br",210.1479175,29055.89921
+"Gainesville, GA3br",227.5037211,35615.34705
+"Gainesville, GA4br",230.2182751,56751.33248
+"Grand Forks, ND-MN_Overall",188.4785574,15946.70149
+"Grand Forks, ND-MN_Studio",168.564394,7485.650004
+"Grand Forks, ND-MN1br",178.8197007,21413.32562
+"Grand Forks, ND-MN2br",190.4502078,16739.06504
+"Grand Forks, ND-MN3br",207.0677225,32884.55448
+"Grand Forks, ND-MN4br",219.2661816,52673.8602
+"Grand Rapids-Kentwood, MI_Overall",190.7480975,19710.53228
+"Grand Rapids-Kentwood, MI_Studio",185.3323008,14705.61711
+"Grand Rapids-Kentwood, MI1br",182.0780954,13244.14333
+"Grand Rapids-Kentwood, MI2br",192.832675,19519.1005
+"Grand Rapids-Kentwood, MI3br",201.6298763,29030.50564
+"Grand Rapids-Kentwood, MI4br",203.2850444,39030.58196
+"Greeley, CO_Overall",199.3470429,29509.8609
+"Greeley, CO_Studio",183.5834481,13765.70753
+"Greeley, CO1br",179.9168849,13728.73882
+"Greeley, CO2br",194.0394209,24959.39311
+"Greeley, CO3br",209.2349207,43178.3082
+"Greeley, CO4br",223.3082701,59238.93288
+"Greensboro-High Point, NC_Overall",172.0020936,16988.51488
+"Greensboro-High Point, NC_Studio",164.4780276,12080.50548
+"Greensboro-High Point, NC1br",161.5387457,11580.59466
+"Greensboro-High Point, NC2br",170.3587808,16042.15033
+"Greensboro-High Point, NC3br",178.051687,23433.21399
+"Greensboro-High Point, NC4br",182.055397,33081.23773
+"Greenville-Anderson, SC_Overall",189.9537055,22704.15737
+"Greenville-Anderson, SC_Studio",177.4648996,15558.03128
+"Greenville-Anderson, SC1br",178.2214925,16331.02322
+"Greenville-Anderson, SC2br",186.2491241,20804.64092
+"Greenville-Anderson, SC3br",197.1688504,29479.82006
+"Greenville-Anderson, SC4br",209.3480362,49245.82628
+"Gulfport-Biloxi, MS_Overall",192.8108157,14700.24448
+"Gulfport-Biloxi, MS_Studio",171.4098379,6814.643694
+"Gulfport-Biloxi, MS1br",178.0252899,8890.55732
+"Gulfport-Biloxi, MS2br",186.7296695,12074.24931
+"Gulfport-Biloxi, MS3br",201.4486139,20467.43333
+"Gulfport-Biloxi, MS4br",213.487118,29323.85774
+"Harrisburg-Carlisle, PA_Overall",223.138795,20771.78681
+"Harrisburg-Carlisle, PA_Studio",208.3489149,13177.67101
+"Harrisburg-Carlisle, PA1br",210.7708638,13347.30088
+"Harrisburg-Carlisle, PA2br",220.5339591,22230.08598
+"Harrisburg-Carlisle, PA3br",233.0243269,30621.93035
+"Harrisburg-Carlisle, PA4br",228.6643979,28535.77167
+"Hartford-East Hartford-Middletown, CT_Overall",212.5999545,39936.90794
+"Hartford-East Hartford-Middletown, CT_Studio",191.587786,17520.23958
+"Hartford-East Hartford-Middletown, CT1br",202.6644695,27145.45744
+"Hartford-East Hartford-Middletown, CT2br",214.0762602,44713.17373
+"Hartford-East Hartford-Middletown, CT3br",222.8912853,55304.83458
+"Hartford-East Hartford-Middletown, CT4br",233.6861462,83225.64406
+"Houston-The Woodlands-Sugar Land, TX_Overall",159.2244306,39481.6023
+"Houston-The Woodlands-Sugar Land, TX_Studio",149.4703163,22598.09156
+"Houston-The Woodlands-Sugar Land, TX1br",10,1.69E+115
+"Houston-The Woodlands-Sugar Land, TX2br",150.4024821,40158.2328
+"Houston-The Woodlands-Sugar Land, TX3br",8,3.43E+59
+"Houston-The Woodlands-Sugar Land, TX4br",8,1.67E+200
+"Huntsville, AL_Overall",192.0252022,19939.52086
+"Huntsville, AL_Studio",167.8133662,9155.303793
+"Huntsville, AL1br",177.7953301,12376.03865
+"Huntsville, AL2br",188.9800153,17562.0652
+"Huntsville, AL3br",200.4652886,27219.61044
+"Huntsville, AL4br",211.2294491,40239.16139
+"Indianapolis-Carmel-Anderson, IN_Overall",164.4683004,25165.96543
+"Indianapolis-Carmel-Anderson, IN_Studio",147.3690489,14136.22554
+"Indianapolis-Carmel-Anderson, IN1br",154.7532475,16767.55535
+"Indianapolis-Carmel-Anderson, IN2br",164.4683004,25165.96543
+"Indianapolis-Carmel-Anderson, IN3br",174.0745883,36577.64813
+"Indianapolis-Carmel-Anderson, IN4br",184.3918138,53952.83481
+"Jackson, MS_Overall",186.795895,21492.24455
+"Jackson, MS_Studio",173.2509715,14150.1741
+"Jackson, MS1br",176.599971,14926.60276
+"Jackson, MS2br",184.3502623,20825.0279
+"Jackson, MS3br",190.2036849,27317.67209
+"Jackson, MS4br",202.1869799,38100.89322
+"Jackson, TN_Overall",182.3528875,21818.63224
+"Jackson, TN_Studio",145.9693377,6236.958626
+"Jackson, TN1br",155.198294,8954.450064
+"Jackson, TN2br",173.8966713,12762.16602
+"Jackson, TN3br",186.9183087,22118.53539
+"Jackson, TN4br",195.0955699,22917.17343
+"Jacksonville, FL_Overall",184.3508515,35293.08597
+"Jacksonville, FL_Studio",171.2290561,15799.15736
+"Jacksonville, FL1br",175.0773237,22130.57625
+"Jacksonville, FL2br",180.0877892,31410.07483
+"Jacksonville, FL3br",197.2478013,45847.34377
+"Jacksonville, FL4br",209.5835603,75535.15718
+"Jacksonville, NC_Overall",202.7916697,28851.16383
+"Jacksonville, NC_Studio",170.7412624,8695.615674
+"Jacksonville, NC1br",180.0360583,15748.73761
+"Jacksonville, NC2br",193.2331534,20593.17384
+"Jacksonville, NC3br",210.8183318,37462.17963
+"Jacksonville, NC4br",216.1906756,58749.61994
+"Kalamazoo-Portage, MI_Overall",208.1114661,15256.33723
+"Kalamazoo-Portage, MI_Studio",191.4371403,9181.894501
+"Kalamazoo-Portage, MI1br",195.8411703,10405.04152
+"Kalamazoo-Portage, MI2br",207.8828953,16672.63789
+"Kalamazoo-Portage, MI3br",218.2496855,23382.06528
+"Kalamazoo-Portage, MI4br",226.6880799,31288.98931
+"Kansas City, MO-KS_Overall",183.0937493,24993.27285
+"Kansas City, MO-KS_Studio",166.6032281,14041.24082
+"Kansas City, MO-KS1br",173.9152661,17124.09954
+"Kansas City, MO-KS2br",185.4596324,24504.23542
+"Kansas City, MO-KS3br",187.4295959,39525.33581
+"Kansas City, MO-KS4br",205.3839475,49546.54251
+"Kennewick-Richland, WA_Overall",197.537993,37592.59901
+"Kennewick-Richland, WA_Studio",181.8013917,21465.64587
+"Kennewick-Richland, WA1br",181.7959011,23360.99407
+"Kennewick-Richland, WA2br",197.320692,35329.55114
+"Kennewick-Richland, WA3br",206.374734,54364.53802
+"Kennewick-Richland, WA4br",216.7699693,78599.97057
+"Killeen-Temple, TX_Overall",197.3452198,26248.14898
+"Killeen-Temple, TX_Studio",187.0178496,13094.28461
+"Killeen-Temple, TX1br",181.3313438,11444.49064
+"Killeen-Temple, TX2br",194.2682626,18969.49486
+"Killeen-Temple, TX3br",205.9109358,36610.86258
+"Killeen-Temple, TX4br",223.9811996,56121.94625
+"Knoxville, TN_Overall",197.2903945,21953.7408
+"Knoxville, TN_Studio",174.4450984,10279.47845
+"Knoxville, TN1br",184.5651395,13578.76099
+"Knoxville, TN2br",194.7819979,21449.37209
+"Knoxville, TN3br",205.4349704,31699.96289
+"Knoxville, TN4br",219.87468,45568.98502
+"Lafayette, LA_Overall",175.7282863,18510.73691
+"Lafayette, LA_Studio",155.5706146,8697.624467
+"Lafayette, LA1br",165.9051665,12670.90662
+"Lafayette, LA2br",172.3976765,17957.0944
+"Lafayette, LA3br",8,1.63E+119
+"Lafayette, LA4br",8,1.67E+90
+"Lafayette-West Lafayette, IN_Overall",195.3114488,15753.39538
+"Lafayette-West Lafayette, IN_Studio",186.6962829,8669.502756
+"Lafayette-West Lafayette, IN1br",191.6453669,10822.29093
+"Lafayette-West Lafayette, IN2br",201.5606451,15122.72488
+"Lafayette-West Lafayette, IN3br",213.0746987,22260.39602
+"Lafayette-West Lafayette, IN4br",219.3221289,38413.7024
+"Lake Charles, LA_Overall",239.6256172,20847.715
+"Lake Charles, LA_Studio",231.4499556,14385.17456
+"Lake Charles, LA1br",221.9464483,11042.7622
+"Lake Charles, LA2br",238.7944084,20073.49435
+"Lake Charles, LA3br",245.2678048,25960.69068
+"Lake Charles, LA4br",246.027918,36734.29343
+"Lakeland-Winter Haven, FL_Overall",219.4904905,24245.27294
+"Lakeland-Winter Haven, FL_Studio",215.2558584,19383.80694
+"Lakeland-Winter Haven, FL1br",197.0304914,13525.07286
+"Lakeland-Winter Haven, FL2br",216.8929957,20921.75159
+"Lakeland-Winter Haven, FL3br",228.586882,32936.73492
+"Lakeland-Winter Haven, FL4br",235.7006876,58519.5802
+"Lansing-East Lansing, MI_Overall",179.2964937,17267.59989
+"Lansing-East Lansing, MI_Studio",166.3955637,14525.44556
+"Lansing-East Lansing, MI1br",169.1695048,11852.51281
+"Lansing-East Lansing, MI2br",178.3845978,18236.9886
+"Lansing-East Lansing, MI3br",178.5030656,29169.54883
+"Lansing-East Lansing, MI4br",183.2613447,33328.07735
+"Las Vegas-Henderson-Paradise, NV_Overall",212.0458244,28393.23957
+"Las Vegas-Henderson-Paradise, NV_Studio",178.4375595,12503.79303
+"Las Vegas-Henderson-Paradise, NV1br",186.9774673,16950.40135
+"Las Vegas-Henderson-Paradise, NV2br",195.5824763,24182.55668
+"Las Vegas-Henderson-Paradise, NV3br",225.183693,42518.50593
+"Las Vegas-Henderson-Paradise, NV4br",235.2052718,61745.99521
+"Lawton, OK_Overall",225.6317611,17924.60219
+"Lawton, OK_Studio",213.3867142,8789.715886
+"Lawton, OK1br",210.8028658,7982.371724
+"Lawton, OK2br",225.8172872,14298.66348
+"Lawton, OK3br",235.6808056,25987.57088
+"Lawton, OK4br",252.1084529,36665.24307
+"Lexington-Fayette, KY_Overall",191.4088751,24169.84986
+"Lexington-Fayette, KY_Studio",170.80632,10601.86554
+"Lexington-Fayette, KY1br",178.9355134,15141.19818
+"Lexington-Fayette, KY2br",191.0971282,22270.04563
+"Lexington-Fayette, KY3br",202.1596417,36709.58718
+"Lexington-Fayette, KY4br",214.704085,58521.19542
+"Lincoln, NE_Overall",190.8560168,16368.95662
+"Lincoln, NE_Studio",173.9111043,8364.044063
+"Lincoln, NE1br",182.6158808,10868.25244
+"Lincoln, NE2br",189.4343319,17101.51537
+"Lincoln, NE3br",205.7487576,26903.62378
+"Lincoln, NE4br",213.3525841,36748.32932
+"Little Rock-North Little Rock-Conway, AR_Overall",200.7840752,17526.51335
+"Little Rock-North Little Rock-Conway, AR_Studio",185.3982931,10034.56762
+"Little Rock-North Little Rock-Conway, AR1br",191.8757709,12471.15928
+"Little Rock-North Little Rock-Conway, AR2br",199.1871011,16151.7535
+"Little Rock-North Little Rock-Conway, AR3br",210.040645,24673.78174
+"Little Rock-North Little Rock-Conway, AR4br",222.8741174,38461.85121
+"Los Angeles-Long Beach-Anaheim, CA_Overall",188.0774118,94033.31406
+"Los Angeles-Long Beach-Anaheim, CA_Studio",169.3427663,50327.95896
+"Los Angeles-Long Beach-Anaheim, CA1br",175.9021428,64084.35155
+"Los Angeles-Long Beach-Anaheim, CA2br",193.3705728,109157.1488
+"Los Angeles-Long Beach-Anaheim, CA3br",201.8197842,163317.3939
+"Los Angeles-Long Beach-Anaheim, CA4br",222.6567315,210147.337
+"Louisville-Jefferson County, KY-IN_Overall",188.2378857,20192.67088
+"Louisville-Jefferson County, KY-IN_Studio",169.4828726,9741.435188
+"Louisville-Jefferson County, KY-IN1br",178.0040012,12940.60245
+"Louisville-Jefferson County, KY-IN2br",188.9325894,20270.23928
+"Louisville-Jefferson County, KY-IN3br",200.7598265,30621.18973
+"Louisville-Jefferson County, KY-IN4br",205.4362939,40480.80633
+"Lubbock, TX_Overall",203.7005076,18559.4476
+"Lubbock, TX_Studio",192.407542,12219.33613
+"Lubbock, TX1br",182.2557278,11398.85202
+"Lubbock, TX2br",193.8607655,17327.56757
+"Lubbock, TX3br",206.007804,32059.746
+"Lubbock, TX4br",230.3570083,48483.63138
+"Madison, WI_Overall",185.2513994,29906.42402
+"Madison, WI_Studio",175.7726324,17840.2798
+"Madison, WI1br",180.8964982,23839.49291
+"Madison, WI2br",190.838124,32775.21729
+"Madison, WI3br",201.2248429,48174.95161
+"Madison, WI4br",193.1698237,61317.0664
+"Manchester-Nashua, NH_Overall",188.4141481,32891.66027
+"Manchester-Nashua, NH_Studio",163.6958024,14809.62166
+"Manchester-Nashua, NH1br",175.2999975,19896.72224
+"Manchester-Nashua, NH2br",192.7590526,36386.93187
+"Manchester-Nashua, NH3br",199.2793925,48036.23169
+"Manchester-Nashua, NH4br",206.2302299,59934.44002
+"Manhattan, KS_Overall",245.0538779,28172.85228
+"Manhattan, KS_Studio",227.5775411,22358.35259
+"Manhattan, KS1br",231.0154557,17185.90427
+"Manhattan, KS2br",232.3688322,26734.65309
+"Manhattan, KS3br",243.2912616,39434.35867
+"Manhattan, KS4br",260.2619762,74525.80575
+"Memphis, TN-MS-AR_Overall",188.7147367,22112.69441
+"Memphis, TN-MS-AR_Studio",176.0132214,12346.77126
+"Memphis, TN-MS-AR1br",180.3786799,14304.76607
+"Memphis, TN-MS-AR2br",190.9964504,19188.48566
+"Memphis, TN-MS-AR3br",201.198338,29587.97601
+"Memphis, TN-MS-AR4br",211.7287063,40047.32105
+"Miami-Fort Lauderdale-Pompano Beach, FL_Overall",200.8801712,65253.07604
+"Miami-Fort Lauderdale-Pompano Beach, FL_Studio",180.9228923,31240.06133
+"Miami-Fort Lauderdale-Pompano Beach, FL1br",189.9386937,41014.56462
+"Miami-Fort Lauderdale-Pompano Beach, FL2br",198.2797936,68027.01909
+"Miami-Fort Lauderdale-Pompano Beach, FL3br",201.8733759,113758.2237
+"Miami-Fort Lauderdale-Pompano Beach, FL4br",8,1.96E+30
+"Midland, TX_Overall",234.204273,20775.5635
+"Midland, TX_Studio",232.518682,18765.66634
+"Midland, TX1br",225.1411013,14758.07365
+"Midland, TX2br",236.04458,21639.85475
+"Midland, TX3br",252.599506,28754.00318
+"Midland, TX4br",262.9426283,60692.48721
+"Milwaukee-Waukesha, WI_Overall",156.7634904,23109.5219
+"Milwaukee-Waukesha, WI_Studio",137.655399,11902.6494
+"Milwaukee-Waukesha, WI1br",143.2059477,16089.44805
+"Milwaukee-Waukesha, WI2br",155.6162376,24182.69197
+"Milwaukee-Waukesha, WI3br",164.0344983,33727.6802
+"Milwaukee-Waukesha, WI4br",169.1268768,39964.49424
+"Minneapolis-St. Paul-Bloomington, MN-WI_Overall",177.1158898,35944.96961
+"Minneapolis-St. Paul-Bloomington, MN-WI_Studio",160.4050384,19635.29885
+"Minneapolis-St. Paul-Bloomington, MN-WI1br",166.5026203,25466.25516
+"Minneapolis-St. Paul-Bloomington, MN-WI2br",177.8636324,41379.77376
+"Minneapolis-St. Paul-Bloomington, MN-WI3br",190.7606769,65767.06317
+"Minneapolis-St. Paul-Bloomington, MN-WI4br",145.1534085,1.05E+43
+"Minot, ND_Overall",196.030544,27277.2456
+"Minot, ND_Studio",178.9670749,14091.57589
+"Minot, ND1br",177.6877485,14666.3406
+"Minot, ND2br",195.8578476,24147.88409
+"Minot, ND3br",214.9228875,48794.78537
+"Minot, ND4br",230.1758177,81058.23263
+"Montgomery, AL_Overall",196.5948184,24753.1369
+"Montgomery, AL_Studio",177.1881367,11204.76178
+"Montgomery, AL1br",182.5129093,14441.94843
+"Montgomery, AL2br",196.0953979,21717.7366
+"Montgomery, AL3br",202.6854169,30524.73775
+"Montgomery, AL4br",217.3944793,50830.232
+"Naples-Marco Island, FL_Overall",245.5401622,70664.72111
+"Naples-Marco Island, FL_Studio",237.1571896,50704.99854
+"Naples-Marco Island, FL1br",233.5947834,44924.19578
+"Naples-Marco Island, FL2br",243.8270511,67516.24169
+"Naples-Marco Island, FL3br",254.785262,99138.31036
+"Naples-Marco Island, FL4br",252.4454888,116949.2365
+"Nashville-Davidson--Murfreesboro--Franklin, TN_Overall",186.6015485,42677.90212
+"Nashville-Davidson--Murfreesboro--Franklin, TN_Studio",190.4487564,34063.34637
+"Nashville-Davidson--Murfreesboro--Franklin, TN1br",189.3070864,30911.24555
+"Nashville-Davidson--Murfreesboro--Franklin, TN2br",197.4599412,40378.6663
+"Nashville-Davidson--Murfreesboro--Franklin, TN3br",194.6826101,55358.34059
+"Nashville-Davidson--Murfreesboro--Franklin, TN4br",208.3610369,89952.99832
+"New Haven-Milford, CT_Overall",215.240848,36378.94762
+"New Haven-Milford, CT_Studio",197.0718685,18318.91678
+"New Haven-Milford, CT1br",206.8738583,26372.93518
+"New Haven-Milford, CT2br",210.0813376,40113.72812
+"New Haven-Milford, CT3br",223.7798036,50709.44942
+"New Haven-Milford, CT4br",231.3390213,66661.76617
+"New Orleans-Metairie, LA_Overall",221.0750768,26622.80557
+"New Orleans-Metairie, LA_Studio",201.356367,13542.2215
+"New Orleans-Metairie, LA1br",211.2741244,19487.3105
+"New Orleans-Metairie, LA2br",221.6746367,27060.34427
+"New Orleans-Metairie, LA3br",232.0376384,39445.85352
+"New Orleans-Metairie, LA4br",235.4722022,62060.2618
+"New York-Newark-Jersey City, NY-NJ-PA_Overall",214.5265062,76088.76751
+"New York-Newark-Jersey City, NY-NJ-PA_Studio",206.2639512,53780.153
+"New York-Newark-Jersey City, NY-NJ-PA1br",201.4689845,64356.69695
+"New York-Newark-Jersey City, NY-NJ-PA2br",217.1742136,80789.95592
+"New York-Newark-Jersey City, NY-NJ-PA3br",224.4150092,107620.2684
+"New York-Newark-Jersey City, NY-NJ-PA4br",223.0086406,144406.7168
+"North Port-Sarasota-Bradenton, FL_Overall",230.9867136,57341.4838
+"North Port-Sarasota-Bradenton, FL_Studio",225.1810561,45828.85018
+"North Port-Sarasota-Bradenton, FL1br",216.3750691,35772.57566
+"North Port-Sarasota-Bradenton, FL2br",227.70973,53542.96693
+"North Port-Sarasota-Bradenton, FL3br",239.1733431,82159.7506
+"North Port-Sarasota-Bradenton, FL4br",249.5408899,118478.0764
+"Odessa, TX_Overall",234.8292344,9278.247809
+"Odessa, TX_Studio",227.6327721,7184.553298
+"Odessa, TX1br",219.7737163,5659.637256
+"Odessa, TX2br",239.3196007,10797.5041
+"Odessa, TX3br",242.7217363,12578.67322
+"Odessa, TX4br",253.2464493,17627.07448
+"Ogden-Clearfield, UT_Overall",213.4406257,30181.06113
+"Ogden-Clearfield, UT_Studio",192.6799232,17392.63486
+"Ogden-Clearfield, UT1br",195.3922287,17226.63472
+"Ogden-Clearfield, UT2br",207.5153159,25134.38838
+"Ogden-Clearfield, UT3br",222.8393335,42294.88581
+"Ogden-Clearfield, UT4br",227.2604508,68620.05467
+"Oklahoma City, OK_Overall",170.5966474,19873.94328
+"Oklahoma City, OK_Studio",154.5862833,11973.39062
+"Oklahoma City, OK1br",156.1472873,12289.08656
+"Oklahoma City, OK2br",167.1733763,19356.47026
+"Oklahoma City, OK3br",177.4751003,27880.87027
+"Oklahoma City, OK4br",177.4581629,40797.02281
+"Olympia-Lacey-Tumwater, WA_Overall",230.1710596,40114.89796
+"Olympia-Lacey-Tumwater, WA_Studio",215.2143686,23689.32013
+"Olympia-Lacey-Tumwater, WA1br",224.3192036,24295.04295
+"Olympia-Lacey-Tumwater, WA2br",233.9047136,33697.59491
+"Olympia-Lacey-Tumwater, WA3br",249.8745131,58784.57107
+"Olympia-Lacey-Tumwater, WA4br",260.9311075,88705.79763
+"Omaha-Council Bluffs, NE-IA_Overall",157.7610928,21826.97259
+"Omaha-Council Bluffs, NE-IA_Studio",148.8083161,13407.27468
+"Omaha-Council Bluffs, NE-IA1br",149.7970554,15201.06287
+"Omaha-Council Bluffs, NE-IA2br",163.9805062,22828.34826
+"Omaha-Council Bluffs, NE-IA3br",180.18754,37490.57693
+"Omaha-Council Bluffs, NE-IA4br",176.0193489,45385.38961
+"Orlando-Kissimmee-Sanford, FL_Overall",192.2513945,46142.94289
+"Orlando-Kissimmee-Sanford, FL_Studio",183.70912,28415.17532
+"Orlando-Kissimmee-Sanford, FL1br",183.7444397,30806.96744
+"Orlando-Kissimmee-Sanford, FL2br",191.140657,42089.13076
+"Orlando-Kissimmee-Sanford, FL3br",195.5524681,8.67E+74
+"Orlando-Kissimmee-Sanford, FL4br",10,2.01E+53
+"Oxnard-Thousand Oaks-Ventura, CA_Overall",234.393916,87610.41887
+"Oxnard-Thousand Oaks-Ventura, CA_Studio",214.9994075,44499.80332
+"Oxnard-Thousand Oaks-Ventura, CA1br",220.0082156,52509.36228
+"Oxnard-Thousand Oaks-Ventura, CA2br",231.8779248,82125.0153
+"Oxnard-Thousand Oaks-Ventura, CA3br",245.9754803,131838.1206
+"Oxnard-Thousand Oaks-Ventura, CA4br",255.7182467,183277.79
+"Palm Bay-Melbourne-Titusville, FL_Overall",208.7918843,34676.40674
+"Palm Bay-Melbourne-Titusville, FL_Studio",187.9003465,15037.71448
+"Palm Bay-Melbourne-Titusville, FL1br",196.7264978,21388.61123
+"Palm Bay-Melbourne-Titusville, FL2br",208.2409282,31177.2277
+"Palm Bay-Melbourne-Titusville, FL3br",219.9673177,48118.49364
+"Palm Bay-Melbourne-Titusville, FL4br",227.6221202,68626.54006
+"Panama City, FL_Overall",251.1112224,29503.16341
+"Panama City, FL_Studio",236.7440748,17261.49263
+"Panama City, FL1br",247.3267413,18140.2018
+"Panama City, FL2br",247.8532835,26618.88221
+"Panama City, FL3br",260.6316488,42952.56946
+"Panama City, FL4br",273.1484093,67799.5111
+"Pensacola-Ferry Pass-Brent, FL_Overall",210.3572518,41632.22041
+"Pensacola-Ferry Pass-Brent, FL_Studio",193.1861352,22375.25776
+"Pensacola-Ferry Pass-Brent, FL1br",198.2458615,24869.78695
+"Pensacola-Ferry Pass-Brent, FL2br",204.9154821,34060.31327
+"Pensacola-Ferry Pass-Brent, FL3br",218.5543404,56103.77549
+"Pensacola-Ferry Pass-Brent, FL4br",233.2730606,98358.29388
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD_Overall",183.7178638,36264.24135
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD_Studio",171.8637849,21428.12512
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD1br",172.8214884,27852.06169
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD2br",187.5186283,40656.46575
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD3br",189.7237036,47631.76272
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD4br",203.9333352,72443.4086
+"Phoenix-Mesa-Chandler, AZ_Overall",194.7098389,31754.0706
+"Phoenix-Mesa-Chandler, AZ_Studio",180.644311,18537.02535
+"Phoenix-Mesa-Chandler, AZ1br",181.6593679,19614.33735
+"Phoenix-Mesa-Chandler, AZ2br",182.8447835,29959.25993
+"Phoenix-Mesa-Chandler, AZ3br",190.6667456,48550.79875
+"Phoenix-Mesa-Chandler, AZ4br",200.4317585,63607.39181
+"Pittsburgh, PA_Overall",170.4935733,20513.16373
+"Pittsburgh, PA_Studio",160.257125,14764.5275
+"Pittsburgh, PA1br",162.0737247,13552.28908
+"Pittsburgh, PA2br",179.5434787,21976.11976
+"Pittsburgh, PA3br",187.8014025,29079.84313
+"Pittsburgh, PA4br",184.4346173,34353.26435
+"Portland-Vancouver-Hillsboro, OR-WA_Overall",194.1931053,52800.37383
+"Portland-Vancouver-Hillsboro, OR-WA_Studio",181.0248855,33473.78435
+"Portland-Vancouver-Hillsboro, OR-WA1br",187.8785086,39081.5583
+"Portland-Vancouver-Hillsboro, OR-WA2br",203.151847,49619.70101
+"Portland-Vancouver-Hillsboro, OR-WA3br",206.3769655,83529.02736
+"Portland-Vancouver-Hillsboro, OR-WA4br",229.2665029,114344.5463
+"Port St. Lucie, FL_Overall",231.0875334,56161.23005
+"Port St. Lucie, FL_Studio",219.9717377,38268.01156
+"Port St. Lucie, FL1br",212.5703107,30321.88953
+"Port St. Lucie, FL2br",226.6721205,49479.1426
+"Port St. Lucie, FL3br",238.7617389,73839.8461
+"Port St. Lucie, FL4br",249.1173349,104920.1601
+"Providence-Warwick, RI-MA_Overall",214.5689821,25271.06809
+"Providence-Warwick, RI-MA_Studio",196.4572721,12646.10345
+"Providence-Warwick, RI-MA1br",201.9177291,16116.36231
+"Providence-Warwick, RI-MA2br",216.513005,28087.38491
+"Providence-Warwick, RI-MA3br",223.0714522,33754.11683
+"Providence-Warwick, RI-MA4br",234.5394246,53195.27881
+"Provo-Orem, UT_Overall",192.8239894,32427.0737
+"Provo-Orem, UT_Studio",182.4983957,22534.18816
+"Provo-Orem, UT1br",178.968121,19045.31375
+"Provo-Orem, UT2br",184.8839748,24918.13868
+"Provo-Orem, UT3br",202.4924586,45253.5863
+"Provo-Orem, UT4br",211.9012658,65585.77564
+"Raleigh-Cary, NC_Overall",178.6660728,36542.35266
+"Raleigh-Cary, NC_Studio",164.5454291,24225.94575
+"Raleigh-Cary, NC1br",172.9919668,27548.05283
+"Raleigh-Cary, NC2br",171.6908576,35149.7685
+"Raleigh-Cary, NC3br",190.8864955,45149.29103
+"Raleigh-Cary, NC4br",206.6277551,80548.25063
+"Reno, NV_Overall",217.5665054,29759.86017
+"Reno, NV_Studio",189.9114621,11577.06128
+"Reno, NV1br",203.8010651,18274.72437
+"Reno, NV2br",217.5571543,29319.17139
+"Reno, NV3br",232.7248288,54463.89701
+"Reno, NV4br",243.5945201,78505.32261
+"Richmond, VA_Overall",186.150516,32271.07304
+"Richmond, VA_Studio",170.7930789,23490.14
+"Richmond, VA1br",171.0353161,23038.18531
+"Richmond, VA2br",183.5254378,29778.75778
+"Richmond, VA3br",189.395289,44881.41459
+"Richmond, VA4br",203.5779868,67013.17391
+"Riverside-San Bernardino-Ontario, CA_Overall",203.8367552,52440.63343
+"Riverside-San Bernardino-Ontario, CA_Studio",181.1334449,25040.85917
+"Riverside-San Bernardino-Ontario, CA1br",184.5039046,28457.65899
+"Riverside-San Bernardino-Ontario, CA2br",198.8694997,45333.62327
+"Riverside-San Bernardino-Ontario, CA3br",212.5513167,71174.08949
+"Riverside-San Bernardino-Ontario, CA4br",223.3426596,112739.1681
+"Roanoke, VA_Overall",213.4516556,18978.48358
+"Roanoke, VA_Studio",194.0379935,10199.48075
+"Roanoke, VA1br",196.8182657,10663.5753
+"Roanoke, VA2br",208.1627366,18368.16329
+"Roanoke, VA3br",223.1161191,26076.7039
+"Roanoke, VA4br",229.8195895,34709.04441
+"Rochester, MN_Overall",202.856904,22934.13703
+"Rochester, MN_Studio",192.0248442,11390.98432
+"Rochester, MN1br",192.8857353,15186.45912
+"Rochester, MN2br",204.0227615,23664.69887
+"Rochester, MN3br",219.1418629,40874.52738
+"Rochester, MN4br",229.7223208,61079.91749
+"Rochester, NY_Overall",202.8641114,18596.30354
+"Rochester, NY_Studio",184.9779387,10046.74213
+"Rochester, NY1br",182.2130395,14594.88307
+"Rochester, NY2br",206.9082167,20961.49229
+"Rochester, NY3br",211.0449241,24949.53665
+"Rochester, NY4br",215.1333091,30559.64909
+"Sacramento-Roseville-Folsom, CA_Overall",215.1001255,51986.77458
+"Sacramento-Roseville-Folsom, CA_Studio",197.007207,25625.38274
+"Sacramento-Roseville-Folsom, CA1br",196.6264042,29074.73731
+"Sacramento-Roseville-Folsom, CA2br",213.0917326,47677.68359
+"Sacramento-Roseville-Folsom, CA3br",227.744257,84823.04917
+"Sacramento-Roseville-Folsom, CA4br",238.3535922,119487.3083
+"St. Cloud, MN_Overall",182.5921086,17207.41512
+"St. Cloud, MN_Studio",169.9123993,10875.02097
+"St. Cloud, MN1br",170.6997659,11789.85187
+"St. Cloud, MN2br",183.9535364,18281.97783
+"St. Cloud, MN3br",196.5059079,29629.83857
+"St. Cloud, MN4br",198.4788821,35004.50607
+"St. Louis, MO-IL_Overall",181.065901,22874.44584
+"St. Louis, MO-IL_Studio",163.5026745,12955.02395
+"St. Louis, MO-IL1br",167.2213,14395.73683
+"St. Louis, MO-IL2br",178.4812443,35601.91813
+"St. Louis, MO-IL3br",188.3063816,34768.63748
+"St. Louis, MO-IL4br",193.8864289,45516.83592
+"Salem, OR_Overall",196.7458144,27686.20861
+"Salem, OR_Studio",185.8224831,19407.80324
+"Salem, OR1br",177.5261148,14519.96203
+"Salem, OR2br",194.3086785,25193.14544
+"Salem, OR3br",209.6354546,45602.22649
+"Salem, OR4br",215.9799491,61254.65402
+"Salinas, CA_Overall",247.4559915,64390.03661
+"Salinas, CA_Studio",224.7007455,46091.07387
+"Salinas, CA1br",225.2526172,42625.57199
+"Salinas, CA2br",233.767591,66892.67705
+"Salinas, CA3br",250.9369388,109181.4028
+"Salinas, CA4br",266.3677195,127125.0157
+"Salt Lake City, UT_Overall",200.2503316,33110.46634
+"Salt Lake City, UT_Studio",179.6746693,15872.4355
+"Salt Lake City, UT1br",189.6924365,21496.82754
+"Salt Lake City, UT2br",197.4244782,31011.17795
+"Salt Lake City, UT3br",205.8635212,52325.72835
+"Salt Lake City, UT4br",209.0199333,63637.12427
+"San Antonio-New Braunfels, TX_Overall",172.2783182,32963.42758
+"San Antonio-New Braunfels, TX_Studio",150.8429498,18288.62968
+"San Antonio-New Braunfels, TX1br",162.0167438,23325.22751
+"San Antonio-New Braunfels, TX2br",175.3112752,33168.28907
+"San Antonio-New Braunfels, TX3br",182.9831326,50153.59823
+"San Antonio-New Braunfels, TX4br",194.8641114,81273.03304
+"San Diego-Chula Vista-Carlsbad, CA_Overall",214.2782354,83745.73456
+"San Diego-Chula Vista-Carlsbad, CA_Studio",199.2942955,42600.6767
+"San Diego-Chula Vista-Carlsbad, CA1br",204.6343649,50732.05992
+"San Diego-Chula Vista-Carlsbad, CA2br",220.9093941,85074.87858
+"San Diego-Chula Vista-Carlsbad, CA3br",233.0385723,138873.6617
+"San Diego-Chula Vista-Carlsbad, CA4br",244.3051135,210270.8769
+"San Francisco-Oakland-Berkeley, CA_Overall",216.0580674,143532.5114
+"San Francisco-Oakland-Berkeley, CA_Studio",204.9431245,64567.38807
+"San Francisco-Oakland-Berkeley, CA1br",212.6171054,113788.1841
+"San Francisco-Oakland-Berkeley, CA2br",225.8382802,152072.1711
+"San Francisco-Oakland-Berkeley, CA3br",229.1135586,215689.8139
+"San Francisco-Oakland-Berkeley, CA4br",245.2743916,283700.3609
+"San Jose-Sunnyvale-Santa Clara, CA_Overall",235.8394394,155057.6756
+"San Jose-Sunnyvale-Santa Clara, CA_Studio",221.9639788,90253.07194
+"San Jose-Sunnyvale-Santa Clara, CA1br",228.5526674,117102.1088
+"San Jose-Sunnyvale-Santa Clara, CA2br",236.5165425,160679.1438
+"San Jose-Sunnyvale-Santa Clara, CA3br",253.0730046,217036.3096
+"San Jose-Sunnyvale-Santa Clara, CA4br",253.7005847,298797.6475
+"Santa Rosa-Petaluma, CA_Overall",207.7210027,85658.84307
+"Santa Rosa-Petaluma, CA_Studio",188.8418288,36603.242
+"Santa Rosa-Petaluma, CA1br",199.9540673,48154.228
+"Santa Rosa-Petaluma, CA2br",214.7150663,84577.38862
+"Santa Rosa-Petaluma, CA3br",230.5957296,143133.2653
+"Santa Rosa-Petaluma, CA4br",236.0522208,177959.1964
+"Savannah, GA_Overall",212.1815214,28282.81869
+"Savannah, GA_Studio",199.8843912,19574.78646
+"Savannah, GA1br",201.3095071,20220.86883
+"Savannah, GA2br",209.5198248,23990.67865
+"Savannah, GA3br",221.5478603,39244.59975
+"Savannah, GA4br",230.3840331,55798.90332
+"Seattle-Tacoma-Bellevue, WA_Overall",211.9660037,74128.48239
+"Seattle-Tacoma-Bellevue, WA_Studio",209.0754262,46244.11518
+"Seattle-Tacoma-Bellevue, WA1br",203.2958136,50599.39762
+"Seattle-Tacoma-Bellevue, WA2br",209.0821148,73804.09012
+"Seattle-Tacoma-Bellevue, WA3br",220.8162108,113509.5143
+"Seattle-Tacoma-Bellevue, WA4br",238.711601,140079.9527
+"Shreveport-Bossier City, LA_Overall",190.9333676,20778.89784
+"Shreveport-Bossier City, LA_Studio",172.8246131,8502.382083
+"Shreveport-Bossier City, LA1br",183.4813207,11309.98158
+"Shreveport-Bossier City, LA2br",190.0857243,16022.90585
+"Shreveport-Bossier City, LA3br",199.1549056,22245.35717
+"Shreveport-Bossier City, LA4br",210.8716198,28926.3587
+"Sioux Falls, SD_Overall",161.2292424,21092.52582
+"Sioux Falls, SD_Studio",152.9042987,15278.86879
+"Sioux Falls, SD1br",157.8652223,14715.52852
+"Sioux Falls, SD2br",167.2554612,21810.41013
+"Sioux Falls, SD3br",179.5915208,32728.99858
+"Sioux Falls, SD4br",191.3459509,55013.27645
+"South Bend-Mishawaka, IN-MI_Overall",220.3266058,14056.82031
+"South Bend-Mishawaka, IN-MI_Studio",193.2696508,7414.611735
+"South Bend-Mishawaka, IN-MI1br",202.3392977,10706.56405
+"South Bend-Mishawaka, IN-MI2br",215.8931836,16158.47502
+"South Bend-Mishawaka, IN-MI3br",224.0394896,22885.88547
+"South Bend-Mishawaka, IN-MI4br",223.4147192,22927.20914
+"Spartanburg, SC_Overall",203.3037225,17285.11691
+"Spartanburg, SC_Studio",204.448303,15676.84029
+"Spartanburg, SC1br",196.6676948,11338.21122
+"Spartanburg, SC2br",197.7322806,18681.28151
+"Spartanburg, SC3br",214.9814079,23054.99134
+"Spartanburg, SC4br",212.457352,25004.47873
+"Spokane-Spokane Valley, WA_Overall",204.795973,25631.0538
+"Spokane-Spokane Valley, WA_Studio",183.9860805,11626.87913
+"Spokane-Spokane Valley, WA1br",189.9233261,14225.28114
+"Spokane-Spokane Valley, WA2br",206.2969337,25001.51669
+"Spokane-Spokane Valley, WA3br",221.120939,41557.72437
+"Spokane-Spokane Valley, WA4br",229.5464569,58000.7319
+"Springfield, MO_Overall",190.8853996,13662.7938
+"Springfield, MO_Studio",173.0762844,8972.718963
+"Springfield, MO1br",172.0282502,7629.555614
+"Springfield, MO2br",184.89745,12966.32037
+"Springfield, MO3br",198.284016,22203.09564
+"Springfield, MO4br",208.1917803,28070.43962
+"Syracuse, NY_Overall",245.8506708,17549.97107
+"Syracuse, NY_Studio",10,1.66E+101
+"Syracuse, NY1br",228.7546116,11396.05379
+"Syracuse, NY2br",247.8697347,18925.94799
+"Syracuse, NY3br",8,1.97E+218
+"Syracuse, NY4br",8,5.60E+118
+"Tallahassee, FL_Overall",240.437484,28678.66801
+"Tallahassee, FL_Studio",225.9704216,16670.12262
+"Tallahassee, FL1br",229.8946958,19684.17498
+"Tallahassee, FL2br",238.5543713,26780.94826
+"Tallahassee, FL3br",249.2102184,39824.57668
+"Tallahassee, FL4br",257.7085899,54584.69181
+"Tampa-St. Petersburg-Clearwater, FL_Overall",181.6844154,42795.15411
+"Tampa-St. Petersburg-Clearwater, FL_Studio",180.6665359,23438.80631
+"Tampa-St. Petersburg-Clearwater, FL1br",181.6727026,25196.7303
+"Tampa-St. Petersburg-Clearwater, FL2br",181.6844154,42795.15411
+"Tampa-St. Petersburg-Clearwater, FL3br",200.0973087,55158.2693
+"Tampa-St. Petersburg-Clearwater, FL4br",8,7.31E+124
+"Toledo, OH_Overall",194.397262,13882.43479
+"Toledo, OH_Studio",176.8767273,6952.361249
+"Toledo, OH1br",180.3884607,7996.99789
+"Toledo, OH2br",187.5760508,13513.59617
+"Toledo, OH3br",207.8473136,22056.66257
+"Toledo, OH4br",206.270433,26419.28137
+"Trenton-Princeton, NJ_Overall",229.2985223,56877.56699
+"Trenton-Princeton, NJ_Studio",204.9416172,23160.35656
+"Trenton-Princeton, NJ1br",216.9216735,35940.77644
+"Trenton-Princeton, NJ2br",235.8662569,69419.32638
+"Trenton-Princeton, NJ3br",239.4831428,78572.65538
+"Trenton-Princeton, NJ4br",248.4185453,110124.7783
+"Tucson, AZ_Overall",170.2423251,21852.08041
+"Tucson, AZ_Studio",150.0275223,9829.117817
+"Tucson, AZ1br",158.1681095,12590.84155
+"Tucson, AZ2br",168.0546618,22867.89773
+"Tucson, AZ3br",188.5524965,39790.02713
+"Tucson, AZ4br",197.0531582,52459.34746
+"Tulsa, OK_Overall",174.7368636,19600.08435
+"Tulsa, OK_Studio",158.1282504,9545.425214
+"Tulsa, OK1br",165.7316528,11555.99632
+"Tulsa, OK2br",178.9780809,19523.80368
+"Tulsa, OK3br",191.2791162,27465.24377
+"Tulsa, OK4br",197.3915343,41551.36228
+"Tyler, TX_Overall",233.6996928,21741.77604
+"Tyler, TX_Studio",225.9615782,16297.61721
+"Tyler, TX1br",221.8062951,14671.81378
+"Tyler, TX2br",233.9849771,22403.42314
+"Tyler, TX3br",241.925171,30352.67761
+"Tyler, TX4br",255.8378404,48255.93115
+"Urban Honolulu, HI_Overall",263.2405071,94819.78382
+"Urban Honolulu, HI_Studio",238.2587001,40017.05217
+"Urban Honolulu, HI1br",245.0413779,51181.17588
+"Urban Honolulu, HI2br",250.9704282,90814.3485
+"Urban Honolulu, HI3br",285.1937782,208254.5717
+"Urban Honolulu, HI4br",291.8102476,261298.1974
+"Vallejo, CA_Overall",246.7207191,73750.19549
+"Vallejo, CA_Studio",222.7551723,30527.22573
+"Vallejo, CA1br",230.1995196,40203.35906
+"Vallejo, CA2br",239.9573975,56136.24428
+"Vallejo, CA3br",257.8927631,107564.7936
+"Vallejo, CA4br",266.673913,147097.0822
+"Virginia Beach-Norfolk-Newport News, VA-NC_Overall",186.314825,36076.77891
+"Virginia Beach-Norfolk-Newport News, VA-NC_Studio",171.9865382,22793.94694
+"Virginia Beach-Norfolk-Newport News, VA-NC1br",177.5046548,22588.13576
+"Virginia Beach-Norfolk-Newport News, VA-NC2br",184.7760546,31597.40091
+"Virginia Beach-Norfolk-Newport News, VA-NC3br",200.6736858,53165.49401
+"Virginia Beach-Norfolk-Newport News, VA-NC4br",210.9370252,83683.40287
+"Waco, TX_Overall",217.5399958,22362.33632
+"Waco, TX_Studio",200.768384,12403.57252
+"Waco, TX1br",203.6734497,13655.95141
+"Waco, TX2br",219.0200631,21902.78388
+"Waco, TX3br",229.0660418,34848.09847
+"Waco, TX4br",238.1097493,46094.35032
+"Washington-Arlington-Alexandria, DC-VA-MD-WV_Overall",195.8864416,79314.89781
+"Washington-Arlington-Alexandria, DC-VA-MD-WV_Studio",185.2962001,59297.58471
+"Washington-Arlington-Alexandria, DC-VA-MD-WV1br",187.9853623,59390.76476
+"Washington-Arlington-Alexandria, DC-VA-MD-WV2br",192.1985556,81331.88751
+"Washington-Arlington-Alexandria, DC-VA-MD-WV3br",200.621376,105551.7114
+"Washington-Arlington-Alexandria, DC-VA-MD-WV4br",208.7057713,155532.2665
+"Wichita, KS_Overall",169.7585868,13804.57587
+"Wichita, KS_Studio",150.4352044,6584.153197
+"Wichita, KS1br",161.7061711,7997.03419
+"Wichita, KS2br",169.7585909,13767.83168
+"Wichita, KS3br",179.2255804,20626.55012
+"Wichita, KS4br",196.0515325,30561.52301
+"Wilmington, NC_Overall",201.9682064,28334.0779
+"Wilmington, NC_Studio",185.7678065,16580.77603
+"Wilmington, NC1br",188.0869118,18344.43337
+"Wilmington, NC2br",196.5243147,26799.58179
+"Wilmington, NC3br",210.5066031,40693.83089
+"Wilmington, NC4br",228.2147202,75738.98155
+"Winston-Salem, NC_Overall",189.4237674,15367.09796
+"Winston-Salem, NC_Studio",179.2485305,10934.36468
+"Winston-Salem, NC1br",172.9337276,10170.80351
+"Winston-Salem, NC2br",186.4738324,14610.01844
+"Winston-Salem, NC3br",199.0571653,22438.44884
+"Winston-Salem, NC4br",208.956542,34073.69246
+"Worcester, MA-CT_Overall",221.8173933,37318.94327
+"Worcester, MA-CT_Studio",209.2313662,29014.61355
+"Worcester, MA-CT1br",206.2775486,27112.04308
+"Worcester, MA-CT2br",225.6966868,42454.81288
+"Worcester, MA-CT3br",229.2816158,51167.843
+"Worcester, MA-CT4br",239.197195,84348.72685
+"York-Hanover, PA_Overall",242.0137556,26513.15715
+"York-Hanover, PA_Studio",222.2431065,13074.24324
+"York-Hanover, PA1br",226.2378085,14610.31097
+"York-Hanover, PA2br",242.4804224,26717.31347
+"York-Hanover, PA3br",250.6373606,36796.57825
+"York-Hanover, PA4br",255.4067407,43137.6991
